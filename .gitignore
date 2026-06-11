@@ -22,3 +22,7 @@
 Homestead.json
 Homestead.yaml
 Thumbs.db
+
+# AI Agent workspace notes
+/docs/*
+!/docs/progres.md
