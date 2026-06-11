@@ -6,8 +6,5 @@ dicommit.
 
 ## 2026-06-11
 
-- Membuat folder `docs` sebagai ruang kerja AI Agent.
-- Menambahkan `docs/AGENT_INSTRUCTIONS.md` sebagai instruksi kerja lokal yang
-  tidak ikut commit.
 - Mengatur `.gitignore` agar isi folder `docs` diabaikan, kecuali
   `docs/progres.md`.
