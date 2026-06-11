@@ -73,4 +73,5 @@ aplikasi akan menampilkan pesan error tanpa menyebabkan error 500.
 
 ## Screenshot
 
-Screenshot aplikasi dapat ditambahkan setelah tampilan final siap.
+![alt text](image-1.png)
+![alt text](image.png)
