@@ -8,3 +8,11 @@ dicommit.
 
 - Mengatur `.gitignore` agar isi folder `docs` diabaikan, kecuali
   `docs/progres.md`.
+- Menghapus catatan progres awal yang tidak perlu sesuai permintaan.
+- Menginstal `intervention/image-laravel` untuk pemrosesan gambar.
+- Menambahkan fondasi MVP: route, request validation, service konversi,
+  controller, Blade UI, dan command pembersihan file sementara.
+- Menambahkan feature test untuk konversi WebP dan validasi file tidak didukung.
+- Mengganti README bawaan Laravel dengan dokumentasi instalasi, fitur, test,
+  storage link, cleanup command, dan catatan dukungan AVIF.
+- Menguatkan test rendering ringkasan hasil konversi.
